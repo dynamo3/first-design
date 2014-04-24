@@ -1,0 +1,28 @@
+body * {
+	background-color: rgba(65, 125, 172, 0.25);
+	margin: 5px;
+	padding: 5px;
+	border: 1px solid transparent;
+	display: block;
+}
+
+a {
+	display: inline-block;
+}
+
+header,main {
+	overflow: hidden;
+}
+
+header nav {
+	float: right;
+}
+
+aside {
+	float: left;
+	width: 200px;
+}
+
+article {
+	margin-left: 230px;
+}
