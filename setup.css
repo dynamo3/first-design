@@ -1,8 +1,8 @@
 body * {
-	background-color: rgba(65, 125, 172, 0.25);
+	background-color: #EEE;
 	margin: 5px;
 	padding: 5px;
-	border: 1px solid transparent;
+	border: 1px solid #777;
 	display: block;
 }
 
